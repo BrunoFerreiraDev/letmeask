@@ -1,7 +1,9 @@
 
-import { BrowserRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import { Home } from "./pages/Home";
 import { NewRoom } from "./pages/NewRoom"
+import { Room } from "./pages/Room"
+
 
 
 import { AuthContextProvider } from "./context/AuthContext"
@@ -15,8 +17,11 @@ function App() {
     <BrowserRouter>
       {/* route é a rota */}{/*exact significa que o endereço para acessa  a pagina Home tem que ser exatamenteo o endereço na descrição*/}
       <AuthContextProvider>
-        <Route path="/" exact component={Home} />{/* usa barra no path pq não vem nada antes da pagina inicial*/}
-        <Route path="/rooms/new" component={NewRoom} />
+        <Switch>{/*Switch para a procura de rota quando uma rota for achada*/}
+          <Route path="/" exact component={Home} />{/* usa barra no path pq não vem nada antes da pagina inicial*/}
+          <Route path="/rooms/new" component={NewRoom} />
+          <Route path="/rooms/:id" component={Room} />
+        </Switch>
       </AuthContextProvider>
 
     </BrowserRouter >
