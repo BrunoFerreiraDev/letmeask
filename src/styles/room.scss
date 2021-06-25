@@ -14,6 +14,15 @@
             >img{
                 max-height: 45px;
             }
+
+            >div{/* > significa que se eu tiver uma div aplica algo*/
+                display: flex;
+                gap: 16px;
+
+                button{
+                    height: 40px;
+                }
+            }
         }
     }
 
@@ -21,6 +30,7 @@
     main{
         max-width: 800px;
         margin: 0 auto;
+
         .room-title{
             margin: 32px 0 24;
             display: flex;
@@ -96,6 +106,10 @@
                    }
                }
             }
+        }
+
+        .question-list{
+            margin-top: 32px;
         }
     }
 }
