@@ -4,9 +4,9 @@
 
 ## Let Me Ask
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-835AFD?style=flat-square)](https://github.com/josepholiveira)
-[![Languages](https://img.shields.io/github/languages/count/josepholiveira/letmeask?color=%23835AFD&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/josepholiveira/letmeask?color=835AFD&style=flat-square)](https://github.com/josepholiveira/letmeask/stargazers)
+[![Author](https://img.shields.io/badge/author-Bruno Ferreira-835AFD?style=flat-square)](https://github.com/BrunoFerreiraCba)
+[![Languages](https://img.shields.io/github/languages/count/BrunoFerreiraCba/letmeask?color=%23835AFD&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BrunoFerreiraCba/letmeask?color=835AFD&style=flat-square)](https://github.com/josepholiveira/letmeask/stargazers)
 
 <h4 align="center">
   Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
@@ -49,11 +49,3 @@ $ yarn start
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with 💜 by Joseph Oliveira 👋 [Check out my LinkedIn](https://www.linkedin.com/in/joseph-oliveira-294a19165)
