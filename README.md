@@ -4,7 +4,7 @@
 
 ## Let Me Ask
 
-[![Author](https://img.shields.io/badge/author-Bruno Ferreira-835AFD?style=flat-square)](https://github.com/BrunoFerreiraCba)
+[![Author](https://img.shields.io/badge/author-BrunoFerreira-835AFD?style=flat-square)](https://github.com/BrunoFerreiraCba)
 [![Languages](https://img.shields.io/github/languages/count/BrunoFerreiraCba/letmeask?color=%23835AFD&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/BrunoFerreiraCba/letmeask?color=835AFD&style=flat-square)](https://github.com/josepholiveira/letmeask/stargazers)
 
