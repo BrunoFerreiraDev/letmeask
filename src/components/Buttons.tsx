@@ -12,6 +12,6 @@ export function Button({ isOutlined = false, ...props }: ButtonProps) {
         <button className={`button ${isOutlined ? 'outlined' : ''}`}
             {...props}
         />// espalhas os atributos ...prpps
-        //sem pre que for inserir javascript dentro do html(jsx), sempre vai ser com {}
+        //sem pre que for inserir javascript dentro do html(jsx), sempre vai ser com {} 
     )
 }
