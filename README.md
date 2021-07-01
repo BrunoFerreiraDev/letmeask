@@ -12,8 +12,8 @@
   Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
 </h4>
 
-![Let Me Ask preview](.github/app-preview.png)
-![Let Me Ask preview](.github/app-preview1.png)
+![Let Me Ask preview](.github/img1.png)
+![Let Me Ask preview](.github/img2.png)
 
 ## Link do Letmeask publicado
 https://letmeask-8cb93.firebaseapp.com/
