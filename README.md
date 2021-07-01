@@ -12,10 +12,10 @@
   Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
 </h4>
 
-## Pagina inicial
+## Home page
 ![Let Me Ask preview](.github/img2.png)
 
-## Sala aberta
+## open room
 ![Let Me Ask preview](.github/img1.png)
 
 ## Link do Letmeask publicado
