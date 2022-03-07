@@ -18,7 +18,7 @@
 ## open room
 <img src=".github/img1.png" alt="Let Me Ask previe" width="750"/>
 
-## Link do Letmeask publicado
+## Letmeask link published
 https://letmeask-8cb93.firebaseapp.com/
 
 ## Tecnologies
