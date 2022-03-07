@@ -13,6 +13,7 @@
 </h4>
 
 ## Home page
+<img src=".github/img2.png" alt="Let Me Ask previe" width="750"/>
 ![Let Me Ask preview](.github/img2.png)
 
 ## open room
